@@ -17,7 +17,7 @@ spring:
       hibernate:
         format_sql: postgres
     database: postgresql
-    database-platform: org.hibernate.dialect.PostgeSQLDialect
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
 
   batch:
     jdbc:
